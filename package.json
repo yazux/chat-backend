@@ -1,0 +1,19 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "xYazu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cluster": "^0.7.7",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "md5": "^2.2.1",
+    "nodemon": "^1.17.3"
+  }
+}
